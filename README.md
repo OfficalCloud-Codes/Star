@@ -1,6 +1,6 @@
 # Star*
 
-A Lua interpreter
+A language made in Lua
 
 _**All up-to-date information and documentation can be found [here](https://officalcloud-codes.github.io/Star/)**_
 ### Install [here](https://officalcloud-codes.github.io/Star/install.html)
